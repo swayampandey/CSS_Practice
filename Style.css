@@ -1,0 +1,25 @@
+/* External StyleSheet */
+
+h2 {
+    color: blue;
+    background-color: rgb(100, 150, 5);
+    /* rgb syntax : rgb(255,0,0)  max: 255 min: 0*/
+}
+
+button {
+    color: brown;
+    background-color: black;
+}
+
+p {
+    color: cornflowerblue;
+    background-color: orange;
+}
+
+span {
+    background-color: aqua;
+}
+
+body {
+    background-color: black;
+}
